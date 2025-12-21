@@ -1,0 +1,15 @@
+{
+  "company": "Моя Транспортная Компания",
+  "vehicles": [
+    {
+      "id": "a1b2c3d4-...",
+      "type": "Train",
+      "capacity": 50.0,
+      "current_load": 30.0,
+      "clients": [
+        { "name": "Иван", "cargo_weight": 20.0, "is_vip": true },
+        { "name": "Петр", "cargo_weight": 10.0, "is_vip": false }
+      ]
+    }
+  ]
+}
